@@ -83,7 +83,7 @@ const nbl = {
 |---------|-------------|-------|
 | 🌍 [**CiviLink**](https://github.com/NabeelLatheef14/CiviLink) | Civilian Benefit and Eligibility Determination System | Angular · Spring · OPA |
 | 🪭 [**HandiCraft**](https://github.com/NabeelLatheef14/Handicraft) | HandiCraft Item Selling Platform | PHP · HTML · CSS · JS |
-| 🤖 **AI Weather Forcast** | GPT-powered AI Weather Prediction System | Angular · OpenAI API |
+| 🤖 [**AI MiniChatBot**](https://github.com/NabeelLatheef14/MiniChatBot) | Llama3.2 | Ollama | Python  · Streamlet |
 
 </div>
 
